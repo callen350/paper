@@ -6,6 +6,8 @@ Authors: Harry Potter, Paddington Bear
 
 Today we went to the Hundred Acre Wood and met Winnie the Pooh. Now there are 2 bears and 1 wizard in our group.
 
+Here is a new change to the story...
+
 ## Conclusion
 
 Then we all went home and ate some honey.
