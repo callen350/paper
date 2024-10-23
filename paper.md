@@ -8,6 +8,11 @@ Today we went to the Hundred Acre Wood and met Winnie the Pooh. Now there are 2 
 
 Here is a new change to the story...
 
+## Afternoon chapter
+
+It was then the afternoon, so they went for a walk.
+
+
 ## Conclusion
 
 Then we all went home and ate some honey.
